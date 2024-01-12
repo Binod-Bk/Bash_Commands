@@ -13,4 +13,4 @@ echo "Go on"
 sleep 2
 echo "Can I get you $sports shoes"
 sleep 2
-echo "Sure"
+echo "Sure you can have it."
