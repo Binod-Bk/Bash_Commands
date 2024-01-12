@@ -1,7 +1,7 @@
 #!/bin/bash
 
-name = $1
-sports =$2
+name=$1
+sports=$2
 
 echo "Hello $name"
 sleep 2
