@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function git_push {
-    message=$1
+    message="$1"
 
     git add .
 
@@ -10,7 +10,11 @@ function git_push {
     git push origin main
 }
 
+if [ -z "$1" ]; then
+    echo "Please provide a commit message."
+    exit 1
+fi
 
-commit_message="Your commit message here"
+commit_message="$1"
 git_push "$commit_message"
 
