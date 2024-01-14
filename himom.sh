@@ -2,7 +2,7 @@
 
 echo "Hi Mom"
 
-sleep 3
+sleep 4
 
 echo "Uh Uh"
 
@@ -10,6 +10,6 @@ sleep 3
 
 echo "Are you Okau?"
 
-sleep 3
+sleep 2
 
 echo "Yes I am fine"
