@@ -9,7 +9,7 @@ if [[ $ans == "y" ]];then
 
 	echo "Enter the number of your Desire."
 	read num
-	if [[ $num%2 == 0 ]];then
+	if (( $num%2 == 0 ));then
 		echo "The number $num is Even."
 	else
 		echo "The number $num is Odd."
