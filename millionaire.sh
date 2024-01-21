@@ -13,5 +13,5 @@ sleep 2
 echo ".........."
 sleep 2
 calculate=$((($RANDOM%15)+$age))
-echo "$name, you will be a millionaire when you are $calculate years old."
+echo "$name, you will be a millionaire when you are $calculate years old so work hard for it."
 
