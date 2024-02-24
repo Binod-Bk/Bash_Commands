@@ -4,7 +4,7 @@ echo "Hi Mom"
 
 sleep 4
 
-echo "Uh Uh"
+echo "Hello Son"
 
 sleep 3
 
