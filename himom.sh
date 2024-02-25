@@ -8,7 +8,7 @@ echo "Hello Son"
 
 sleep 3
 
-echo "Are you Okau?"
+echo "Are you Okay?"
 
 sleep 2
 
