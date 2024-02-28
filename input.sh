@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "What is your Name"
+echo "What is your Name?"
 
 read name
 
