@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo "Do you want to watch movie today? (y/n)"
+echo "Do you want to go out Today? (y/n)"
 
 read answer
 
