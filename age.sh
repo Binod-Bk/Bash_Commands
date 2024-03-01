@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter you age"
+echo "What is you Age?"
 
 read age
 
