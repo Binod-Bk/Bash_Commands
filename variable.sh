@@ -2,7 +2,7 @@
 
 name="Binod"
 
-echo "Good Morning $name!!"
+echo "Hello Good Morning $name!!"
 sleep 1
 echo "Hello"
 sleep 1
